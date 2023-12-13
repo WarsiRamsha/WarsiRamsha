@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamramshawarsi" target="blank"><img src="https://img.shields.io/twitter/follow/iamramshawarsi?logo=twitter&style=for-the-badge" alt="iamramshawarsi" /></a> </p>
 
-- 🌱 I’m currently learning **TestNG, Selenium with Java (The more I learn, the more I realize there is to know.)**
+- 🌱 I’m currently learning **TestNG, Selenium with Java (The more I learn, the more I realize there is more to know.)**
 
 - 📫 How to reach me **ramsha_warsi@hotmail.com**
 
