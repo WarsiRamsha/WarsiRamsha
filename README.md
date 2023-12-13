@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ramsha Warsi</h1>
 <h3 align="center">Passionate about automating processes and dedicated to continuous learning and implementation.</h3>
 
+![Automation Nation](https://github.com/WarsiRamsha/WarsiRamsha/assets/86947293/f8650121-416d-402b-92a3-cd789dd240a4)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramshawarsi&label=Profile%20views&color=0e75b6&style=flat" alt="ramshawarsi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramshawarsi" alt="ramshawarsi" /></a> </p>
