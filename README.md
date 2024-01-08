@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramsha Warsi</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!;Thankyou+for+visiting+my+profile.)](https://git.io/typing-svg)
+
 <h3 align="center">Passionate about automating processes and dedicated to continuous learning and implementation.</h3>
 
 <p align="center">
@@ -29,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramshawarsi&show_icons=true&locale=en" alt="ramshawarsi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramshawarsi&" alt="ramshawarsi" /></p>
+
+
